@@ -2,6 +2,14 @@
 
 A curated list of online courses, services, and platforms to help QA Engineers—both Manual and Automation—grow their skills.
 
+- <strong>Table of Contents</strong>
+  - [QA Learning Resources](#qa-learning-resources)
+    - [Courses & Learning Platforms](#courses--learning-platforms)
+    - [YouTube Channels for QA](#youtube-channels-for-qa)
+    - [Certification Resources](#certification-resources)
+    - [Contribute](#contribute)
+
+
 ### Resources are tagged as:  
   🟢 <strong>Free</strong></br>
   🟡 <strong>Paid or Partially Paid</strong>
