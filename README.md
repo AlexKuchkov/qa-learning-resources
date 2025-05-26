@@ -48,7 +48,4 @@ A curated list of online courses, services, and platforms to help QA Engineersâ€
 
 If you know a great QA course, platform, or tutorial, feel free to [open an issue](https://github.com/YOUR_USERNAME/qa-learning-resources/issues) or submit a pull request.
 
-
-## License
-
-This list is open-sourced under the MIT License. Use and share freely!
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AlexKuchkov/qa-learning-resources?tab=MIT-1-ov-file)
