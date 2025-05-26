@@ -1,7 +1,5 @@
 # QA Learning Resources
 
-A curated list of online courses, services, and platforms to help QA Engineers—both Manual and Automation—grow their skills.
-
 - <strong>Table of Contents</strong>
   - [QA Learning Resources](#qa-learning-resources)
     - [Courses & Learning Platforms](#courses--learning-platforms)
@@ -9,6 +7,7 @@ A curated list of online courses, services, and platforms to help QA Engineers�
     - [Certification Resources](#certification-resources)
     - [Contribute](#contribute)
 
+A curated list of online courses, services, and platforms to help QA Engineers—both Manual and Automation—grow their skills.
 
 ### Resources are tagged as:  
   🟢 <strong>Free</strong></br>
