@@ -6,7 +6,7 @@ A curated list of online courses, services, and platforms to help QA Engineers�
     - [YouTube Channels for QA](#youtube-channels-for-qa)
     - [Certification Resources](#certification-resources)
 
-#### Resources are tagged as:  
+ <strong>Resources are tagged as :</strong>  
   🟢 <strong>Free</strong></br>
   🟡 <strong>Paid or Partially Paid</strong>
 
