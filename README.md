@@ -13,7 +13,7 @@ A curated list of online courses, services, and platforms to help QA Engineers -
 
 ## Courses & Learning Platforms
 
-🟢 [Test Automation University](https://testautomationu.applitools.com/) – Community-driven free platform by Applitools, with courses on Selenium, Cypress, JavaScript, and more.  
+🟢 [Test Automation University](https://testautomationu.applitools.com/) – Community driven free platform by Applitools, with courses on Selenium, Cypress, JavaScript, and more.  
 🟡 [Ministry of Testing](https://www.ministryoftesting.com/) – Offers courses, talks, and curated content. Some free, most behind a Pro membership.  
 🟡 [Udemy](https://www.udemy.com/) – Popular platform with many QA and automation courses from different instructors. Prices vary.  
 🟡 [Coursera](https://www.coursera.org/) – Offers university-level courses in software testing and QA. Free to audit, certificates require payment.  
@@ -43,7 +43,7 @@ A curated list of online courses, services, and platforms to help QA Engineers -
 
 ## Certification Resources
 
-🟡 [ISTQB](https://www.istqb.org/) – Globally recognized certifications for manual and automation testers.  
+🟡 [ISTQB](https://www.istqb.org/) - Globally recognized certifications for manual and automation testers.  
 🟡 [Udemy - ISTQB Prep](https://www.udemy.com/course/istqb-certified-tester-foundation-level-ctfl/) – Practice exams and training for certification.  
 🟡 [LinkedIn Learning](https://www.linkedin.com/learning/) – Courses to prepare for ISTQB and Agile certifications.  
 
